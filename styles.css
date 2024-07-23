@@ -13,14 +13,14 @@ body {
 /* Büyük ekranlar için */
 @media (min-width: 768px) {
     body {
-        background-color: #FBFAF8;
+        background-color: #00000 ;
     }
 }
 
 /* Küçük ekranlar için */
 @media (max-width: 767px) {
     body {
-        background-color: #FBFAF8;
+        background-color: #00000;
     }
 }
 img, video {
