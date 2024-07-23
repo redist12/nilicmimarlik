@@ -6,6 +6,23 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Büyük ekranlar için */
+@media (min-width: 768px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+/* Küçük ekranlar için */
+@media (max-width: 767px) {
+    body {
+        background-color: lightcoral;
+    }
+}
 
 header {
     background-color: #ffffff;
