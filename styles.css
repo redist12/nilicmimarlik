@@ -62,13 +62,7 @@ nav {
 }
 
 nav .menu-toggle {
-    display: none;
-    background-color:  #000000;
-    color:   #000000;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 5px;
-    cursor: pointer;
+   
 }
 
 nav ul {
