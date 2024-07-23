@@ -13,14 +13,14 @@ body {
 /* Büyük ekranlar için */
 @media (min-width: 768px) {
     body {
-        background-color: lightblue;
+        background-color: #FBFAF8;
     }
 }
 
 /* Küçük ekranlar için */
 @media (max-width: 767px) {
     body {
-        background-color: lightcoral;
+        background-color: #FBFAF8;
     }
 }
 img, video {
